@@ -4,6 +4,9 @@
 How to planing of proper page architecture -
 1] UI mockup
 ![alt text](image.png)
+
+<br>
+
 2] JSON API
 ![alt text](image-1.png)
 
